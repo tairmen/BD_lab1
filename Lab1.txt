@@ -1,1 +1,2 @@
 this project has been writen on python 3.6.0
+author: Abduraimov Tair, KV-52, variant 1
